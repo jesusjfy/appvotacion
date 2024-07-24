@@ -1,0 +1,5 @@
+package pe.codigog8.appvotacion
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846386062249",
+    "project_id": "fir-g8-5f03c",
+    "storage_bucket": "fir-g8-5f03c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846386062249:android:87725ab02d1ddc0b7b1ab8",
+        "android_client_info": {
+          "package_name": "pe.codigog8.appvotacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846386062249-re9ejvat9o1quavptlsb233nnfebcb7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZBIbSROeyWW_-oB13T7M8vWqV2gSZ20k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846386062249-re9ejvat9o1quavptlsb233nnfebcb7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
